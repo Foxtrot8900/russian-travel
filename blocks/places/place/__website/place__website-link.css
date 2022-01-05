@@ -1,5 +1,5 @@
 .place__website-link{
-    font-family: 'Inter-regular';
+    font-family: 'Inter';
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -16,7 +16,7 @@
 
 @media screen and (min-width: 320px) and (max-width:767px)  {
     .place__website-link{
-        font-family: 'Inter-regular';
+        font-family: 'Inter';
         font-style: normal;
         font-weight: normal;
         font-size: 18px;
